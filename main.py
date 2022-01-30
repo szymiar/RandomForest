@@ -1,3 +1,8 @@
+'''
+Autor 1 : Jakub Kałuski, 303702
+Autor 2 : Szymon Miareczka, 303710
+
+'''
 import threading
 import pandas as pd
 import Tree as tree
