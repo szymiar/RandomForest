@@ -1,6 +1,6 @@
 '''
-Autor 1 : Jakub Kałuski, 303702
-Autor 2 : Szymon Miareczka, 303710
+Autor 1 : Jakub Kałuski
+Autor 2 : Szymon Miareczka
 
 '''
 import threading
