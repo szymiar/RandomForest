@@ -1,3 +1,8 @@
+'''
+Autor 1 : Jakub Kałuski
+Autor 2 : Szymon Miareczka
+
+'''
 import random
 import pandas as pd
 import numpy as np
