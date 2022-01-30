@@ -1,0 +1,9 @@
+{
+    "train_data_path": "train.csv",
+    "test_data_path": "test.csv",
+    "forest_size": 5,
+    "max_depth": 4,
+    "unknown": "?",
+    "delimeter": ", ",
+    "class_column": 14
+}
